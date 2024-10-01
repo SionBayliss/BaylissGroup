@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lecturer in Endemic, Enzootic and Emerging Infectious Diseases, University of Bristol, UK
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sion.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Sion C. Bayliss, PhD<p>
+    <p>Lecturer in Endemic, Enzootic and Emerging Infectious Diseases</p>
+    <p>University of Bristol<p>
+    <p>UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**The Bayliss Group** focuses on leveraging genomics datasets to develop novel machine learning, bioinformatics, and diagnostic methodologies aimed at combating the emergence of problematic pathogens in the public health and sustainable food production sectors. Our work emphasises interdisciplinarity and co-production of knowledge with stakeholders.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We study a range of *One Health* pathogens, including nosocomial pathogens (*Staphylococcus aureus*, *Enterococcus faecium*) and foodborne pathogens (*Campylobacter* and *Enterobacteriaceae*), with a specialisation in endemic disease of poultry and emerging diseases in the aquaculture sector. Our current research programme focuses on pathogens of the food chain, from production to consumption, such as *Salmonella* species. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research programme can be divided into two primary fields:
+
+1. The use of novel computer science methodologies to develop translational tools for combating and managing diseases in public health and sustainable food production sectors. These include the use of machine learning for source attribution and the rapid identification of recombination in large genomic datasets.  
+
+2. The application of long-read sequencing as a rapid diagnostic tool for human and animal disease management. Projects include assessing bacterial community diversity as a biomarker for gut health, as well as *in silico* AMR resistance typing from biological samples such as whole blood.
+
