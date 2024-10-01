@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SionBayliss.github.io/BaylissGroup//sitemap.xml
+Sitemap: https://SionBayliss.github.io/BaylissGroup/sitemap.xml
