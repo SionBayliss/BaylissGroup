@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Current members of the Bayliss Lab
+description: current members of the Bayliss Group
 nav: true
 nav_order: 1
 
