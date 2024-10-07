@@ -1,1 +1,1 @@
-Placeholder
+Vaishnavi recently completed her MSc in Bioinformatics project assignment with the group and has now joined us as a sequencing technician. She will be working closely with Helen on long-read sequencing while continuing some of the work she started during her MSc.

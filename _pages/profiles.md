@@ -23,22 +23,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
   - align: left
-    image: prof_pic.jpg
-    content: about_Axel.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: right
-    image: prof_pic.jpg
+    image: Daniella.jpeg
     content: about_Daniella.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
-    image: prof_pic.jpg
+  - align: right
+    image: Caroline.png
     content: about_Caroline.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
-    image: prof_pic.jpg
+  - align: left
+    image: vaishnavi.jpeg
     content: about_Vaishnavi.md
     image_circular: false # crops the image to make it circular
     more_info:
