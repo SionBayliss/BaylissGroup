@@ -1,1 +1,2 @@
-Placeholder
+Daniella did her Integrated Masters in Physics from the University of St Andrews where her project focused on leveraging machine learning to analyse electron diffraction patterns, aiding in the layer by layer growth of thin films. She is currently a PhD student as part of the COMPASS (Computational Statistics and Data Science) CDT in the Maths Department with PIs Dan Lawson and Sion Bayliss. Her research is focused on the creation of an early detection system for problematic lineages of bacterial pathogens.
+
