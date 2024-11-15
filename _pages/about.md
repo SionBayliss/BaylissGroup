@@ -29,3 +29,6 @@ Our research programme can be divided into two primary fields:
 
 2. The application of long-read sequencing as a rapid diagnostic tool for human and animal disease management. Projects include assessing bacterial community diversity as a biomarker for gut health, as well as *in silico* AMR resistance typing from biological samples such as whole blood.
 
+![Sion Bayliss](assets/img/lab-1.jpg){:align="right" style="width: 100%"}
+
+
